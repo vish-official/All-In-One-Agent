@@ -1,0 +1,6 @@
+{
+  "name": "ALL-IN-ONE Architecture Studio",
+  "description": "Interactive System Design & Blueprint Scaffolding Workspace for the ALL-IN-ONE local-first AI Orchestrator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
